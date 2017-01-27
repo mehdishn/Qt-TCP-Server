@@ -7,5 +7,5 @@ Qt 5.x
 
 # Usage
 When the server starts, any incoming socket data will be printed in the Qt console and an acknowledgement will be sent back to the client.
-It can be tested with [this free TCP packet sender software](https://http://www.packetsender.com).
+It can be tested with [this free TCP packet sender software](https://www.packetsender.com).
   
