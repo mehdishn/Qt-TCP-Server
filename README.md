@@ -1,5 +1,5 @@
 # Introduction
-A simple cross-platform TCP server that communicates with a client in the same network
+A simple cross-platform TCP server that communicates with a client in the same network.
 This code was developed in C++ using Qt library in order to control a robot (server) via an smartphone. Server accepts sockets from the client and acts accordingly.
 
 # Dependencies
